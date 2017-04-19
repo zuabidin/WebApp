@@ -1,0 +1,19 @@
+header {
+
+    background-color:#6CADFF;
+    background-size: 1440px x 400px;
+    opacity: 100%;
+
+}
+
+h1 {
+
+    position:relative;
+    font-family: OpenSans-Bold;
+    font-size: 24px;
+    opacity: 100%;
+    color: #FFFFFF;
+    letter-spacing: 7.69px;
+    padding-top: 80px;
+    padding-left: 637px;
+}
